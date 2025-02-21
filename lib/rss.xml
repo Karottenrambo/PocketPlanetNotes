@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Vault</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 21 Feb 2025 18:29:28 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 21 Feb 2025 18:29:28 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Vault</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 21 Feb 2025 18:43:05 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 21 Feb 2025 18:43:05 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
  <br>Pocket Planet Survival is a mobile first, casual 3rd person resource collection / tower defense mix, playing on and inside a goldberg polyhedron.<br><a data-tooltip-position="top" aria-label="Pocket Planet/Revshare Contract" data-href="Pocket Planet/Revshare Contract" href="Pocket Planet/Revshare Contract.html" class="internal-link" target="_self" rel="noopener nofollow">Revshare Contract</a><br><br>The initial gameplay is very similar to My Little Universe:<br>
 <a rel="noopener nofollow" class="external-link" href="https://play.google.com/store/apps/details?id=com.savetheworld.game&amp;hl=en" target="_blank">https://play.google.com/store/apps/details?id=com.savetheworld.game&amp;hl=en</a><br>
 It offers a intuitive/casual gameplay, the character just needs to be moved near resources to collect them automatically. These resources can be used to unlock new parts of the world and to upgrade the tools of the player(axe, pickaxe, sword).<br>
@@ -39,30 +39,17 @@ Your Worked Hours / Total Worked Hours of All Contributors = Your Share of Month
 <br>Once revenue is generated and upfront costs are covered, distribution occurs monthly.
 <br>Tracked hours can never be invalidated—they always ensure the right to revenue share, even if a contributor leaves the project.
 <br>Shares below 0.1% are excluded—contributors with total work hours below 1/1000th of the total project will not be considered for revenue sharing.
-<br><br>
-<br>
-Task Assignment  
-
+<br><br><br>
 <br>Contributors suggest new tasks or take one from the Kanban board.  
 <br>The owner and contributor agree on workload estimation before starting the task.  
-
-
-<br>
-Work Completion &amp; Tracking  
-
+<br><br>
 <br>Once completed, the work is reviewed by the owner.  
 <br>The actual worked hours get tracked.  
 <br>If the actual hours exceed 100% of the original estimate, additional approval is required.
-
-
-<br>
-Valid vs. Non-Valid Work  
-
+<br><br>
 <br>Only concrete work that moves the project forward is counted.  
 <br>The owner has the right to count organisational/management tasks for the project
 <br>Thinking about ideas, discussions, research, and gamedev tutorials are not counted.
-
-
 <br><br>
 <br>The owner retains full intellectual property (IP) rights over the final game and its brand.
 <br>Contributors grant the owner a perpetual, royalty-free license to use their contributions in the project.
@@ -76,11 +63,11 @@ Valid vs. Non-Valid Work
 <br>If the project is sold, the same revenue share applies to the sale price.
 <br><br>
 <br>If any dispute arises between the owner and a contributor, both parties agree to resolve it via arbitration instead of lawsuits.
-<br>Arbitration Process:<br>
+<br><br>
 <br>Both parties choose a neutral third-party mediator.
 <br>If no agreement is reached, the matter is settled via binding arbitration under the rules of an arbitration provider or online mediation platform.
 <br>Each party covers its own costs unless otherwise decided by the arbitrator.
 <br><br>All contributors and the Owner must sign this Contract.<br>
 This contract can only be changed with the agreement of all active and former contributors.<br><br><br><br>Tracking hours will be a turnoff for some, but without them, there will be endless discussions about what constitutes a fair share in relation to the amount of work done.<br>
 When working with strangers on the internet—without mutual trust, like in personal relationships—hard numbers are needed to guarantee fairness.<br><br>I am a firm believer in democracy, and I originally started writing a ruleset where every contributor is equal.<br>
-However, I concluded that it is simply not possible without lawyers and a huge bureaucratic overhead.<br>While I will always try to involve contributors in important decisions and keep an open ear for suggestions, the final say will always rest on me.]]></description><link>Pocket Planet/Revshare Contract.html</link><guid isPermaLink="false">Pocket Planet/Revshare Contract.md</guid><pubDate>Mon, 17 Feb 2025 07:30:43 GMT</pubDate></item></channel></rss>
+However, I concluded that it is simply not possible without lawyers and a huge bureaucratic overhead.<br>While I will always try to involve contributors in important decisions and keep an open ear for suggestions, the final say will always rest on me.]]></description><link>Pocket Planet/Revshare Contract.html</link><guid isPermaLink="false">Pocket Planet/Revshare Contract.md</guid><pubDate>Fri, 21 Feb 2025 18:42:41 GMT</pubDate></item></channel></rss>
