@@ -1,5 +1,37 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Vault</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 21 Feb 2025 18:43:05 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 21 Feb 2025 18:43:05 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
- <br>Pocket Planet Survival is a mobile first, casual 3rd person resource collection / tower defense mix, playing on and inside a goldberg polyhedron.<br><a data-tooltip-position="top" aria-label="Pocket Planet/Revshare Contract" data-href="Pocket Planet/Revshare Contract" href="Pocket Planet/Revshare Contract.html" class="internal-link" target="_self" rel="noopener nofollow">Revshare Contract</a><br><br>The initial gameplay is very similar to My Little Universe:<br>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Vault</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 21 Feb 2025 19:04:53 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 21 Feb 2025 19:04:53 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Technical Tile / Planet Video Demo]]></title><description><![CDATA[ 
+ <br><br>`Goal: attracting other Unity Developers<br>
+<br>Planet Creation / Setup over ingame menu
+<br>Tile blend mechanic
+<br>Planet switch mechanic
+<br><br>`Goal: Gameplay evaluation, Basis for Setting/Artstyle design<br>
+<br>All core Gameplay mechanics
+
+<br>Resource System
+<br>Item System
+<br>Mines
+<br>Random Enemies
+<br>Enemy Spawns
+<br>Pathfinding
+<br>Enemy AI
+<br>Upgrades for Weapon/Axe/Towers
+
+
+<br>Placeholder Graphics/Animation
+<br>Placeholder UI
+<br>Android/iOS internal testing builds
+<br>Evaluate Technical limitations (unitcount/polycount/shaders)
+<br><br>`Goal: Evaluate final design based on Marketing Potential<br>
+<br>Decide on Visual Design / Setting
+<br>Animation System(expected release Q3 2025)
+<br>Content for the first 3 Planets
+<br>final UI
+<br>teaser for open beta
+<br><br>`Goal: public testing<br>
+<br>Content / Resource / Enemy progression for 10h of gameplay
+<br>polish
+<br>trailer for release
+]]></description><link>Pocket Planet/PublishedPages/Development Milestones.html</link><guid isPermaLink="false">Pocket Planet/PublishedPages/Development Milestones.md</guid><pubDate>Mon, 17 Feb 2025 07:37:33 GMT</pubDate></item><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
+ <br>Pocket Planet Survival is a mobile first, casual 3rd person resource collection / tower defense mix, playing on and inside a goldberg polyhedron.<br><a data-tooltip-position="top" aria-label="Pocket Planet/PublishedPages/Revshare Contract" data-href="Pocket Planet/PublishedPages/Revshare Contract" href="Pocket Planet/PublishedPages/Revshare Contract.html" class="internal-link" target="_self" rel="noopener nofollow">Revshare Contract</a><br><br>The initial gameplay is very similar to My Little Universe:<br>
 <a rel="noopener nofollow" class="external-link" href="https://play.google.com/store/apps/details?id=com.savetheworld.game&amp;hl=en" target="_blank">https://play.google.com/store/apps/details?id=com.savetheworld.game&amp;hl=en</a><br>
 It offers a intuitive/casual gameplay, the character just needs to be moved near resources to collect them automatically. These resources can be used to unlock new parts of the world and to upgrade the tools of the player(axe, pickaxe, sword).<br>
 There is no classic UI, all interactions happen on buildings on the planet, just showing a minimal popup about the upgrade cost etc.<br>By exploring the planet, the player can discover Mines that can automatically extract resources. However, he will also discover enemy hives that continuously spawn enemies who will automatically navigate and attack the player Mines.<br>To protect the Mines, the player can place defensive towers. The player can play it safe and work with the existing resource income, but if he wants to progress faster, he will also face enemies from multiple directions. Besides a cyclical time component, the total resource extraction rate will determine the enemy spawn rate/strength.<br>The main gameplay challenge will be to find the optimal exploration speed, deciding where to place the defense towers and upgrading what mines/towers first.<br><br>After some time, the player will control the whole planet, he can still upgrade the Mines, but if he is not careful, the Enemies might overwhelm his defenses, and destroy existing mines.<br>
@@ -29,7 +61,7 @@ Drawbacks are the missing official animation system(expected Q3 2025) and missin
 Even with the right skill and time investment, there would be significant performance limitations.<br>
 <a rel="noopener nofollow" class="external-link" href="https://steamcommunity.com/app/644930/discussions/0/1778262124947847998/" target="_blank">https://steamcommunity.com/app/644930/discussions/0/1778262124947847998/</a><br><br>On mobile the game will be free to play but without ethical monetization.<br>
 There will be ads that can double the resource collection of a mine for XX minutes. So if the player wants to have maximum output, he needs to watch a ad every ~10 minutes.<br>
-Or he can buy a permanent ad free boost for ~4€. Besides that there will be cosmetic character skins.<br><br> For the first public release, getting the core gameplay loop and the incremental mechanics working is key. If the perception is good, I want to continuously grow the game with updates. Adding Factions, neutral/player units and expanding their agentic behavious would add a lot of depth to the core gameplay. In best case I would like to move the game into a storygenerator direction like Rimworld/Kenshi, where lots of dynamics happen in the background and the player can only partially influence the outcome. All that while keeping controls simple and the onboarding casual.]]></description><link>Pocket Planet/Pocket Planet Survival Description.html</link><guid isPermaLink="false">Pocket Planet/Pocket Planet Survival Description.md</guid><pubDate>Fri, 21 Feb 2025 18:28:56 GMT</pubDate></item><item><title><![CDATA[Idea]]></title><description><![CDATA[ 
+Or he can buy a permanent ad free boost for ~4€. Besides that there will be cosmetic character skins.<br><br> For the first public release, getting the core gameplay loop and the incremental mechanics working is key. If the perception is good, I want to continuously grow the game with updates. Adding Factions, neutral/player units and expanding their agentic behavious would add a lot of depth to the core gameplay. In best case I would like to move the game into a storygenerator direction like Rimworld/Kenshi, where lots of dynamics happen in the background and the player can only partially influence the outcome. All that while keeping controls simple and the onboarding casual.]]></description><link>Pocket Planet/PublishedPages/Pocket Planet Survival Description.html</link><guid isPermaLink="false">Pocket Planet/PublishedPages/Pocket Planet Survival Description.md</guid><pubDate>Fri, 21 Feb 2025 19:03:54 GMT</pubDate></item><item><title><![CDATA[Idea]]></title><description><![CDATA[ 
  <br><br>I love solo gamedev, but let's be honest—the chances of financial success are tiny.<br>
 The market saturation and the quality level of existing games are simply too high.<br>I would like to go full-time, but I also have responsibilities. All I can give is my time, experience, and passion. However, as a single person with these constraints, you can only achieve "so much."<br>There are thousands of gamedevs in a similar situation, resulting in countless games that are never played by a proper audience or, let alone, ever earn actual money.<br>With this rev-share framework, I aim to create an environment where like-minded individuals can join, contribute, and create something bigger together—<br>
 all with maximum autonomy, personal responsibility, minimal overhead, and a fair chance of earning money.<br><br><br>
@@ -70,4 +102,4 @@ Your Worked Hours / Total Worked Hours of All Contributors = Your Share of Month
 <br><br>All contributors and the Owner must sign this Contract.<br>
 This contract can only be changed with the agreement of all active and former contributors.<br><br><br><br>Tracking hours will be a turnoff for some, but without them, there will be endless discussions about what constitutes a fair share in relation to the amount of work done.<br>
 When working with strangers on the internet—without mutual trust, like in personal relationships—hard numbers are needed to guarantee fairness.<br><br>I am a firm believer in democracy, and I originally started writing a ruleset where every contributor is equal.<br>
-However, I concluded that it is simply not possible without lawyers and a huge bureaucratic overhead.<br>While I will always try to involve contributors in important decisions and keep an open ear for suggestions, the final say will always rest on me.]]></description><link>Pocket Planet/Revshare Contract.html</link><guid isPermaLink="false">Pocket Planet/Revshare Contract.md</guid><pubDate>Fri, 21 Feb 2025 18:42:41 GMT</pubDate></item></channel></rss>
+However, I concluded that it is simply not possible without lawyers and a huge bureaucratic overhead.<br>While I will always try to involve contributors in important decisions and keep an open ear for suggestions, the final say will always rest on me.]]></description><link>Pocket Planet/PublishedPages/Revshare Contract.html</link><guid isPermaLink="false">Pocket Planet/PublishedPages/Revshare Contract.md</guid><pubDate>Fri, 21 Feb 2025 18:42:41 GMT</pubDate></item></channel></rss>
